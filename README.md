@@ -15,8 +15,7 @@
 <p align="center"><img src="./assets/h-stack-v2.svg" width="100%" alt="Tech stack" /></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,swift&perline=8" alt="Python, C++, JavaScript, HTML, CSS, Swift" /><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite,nodejs,vue,git,github,vscode,linux&perline=9" alt="FastAPI, PostgreSQL, SQLite, Node.js, Vue, Git, GitHub, VS Code, Linux" />
+  <img src="./assets/stack-panel-v2.svg" width="100%" alt="Tech stack: Python, C++, JavaScript, HTML, CSS, Swift, FastAPI, PostgreSQL, SQLite, Node.js, Vue, Git, GitHub, VS Code, Linux" />
 </p>
 
 <p align="center"><img src="./assets/divider-v2.svg" width="100%" alt="" /></p>
