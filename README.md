@@ -33,6 +33,10 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="./assets/github-stats-v2.svg" width="100%" alt="GitHub activity: 118 commits and 2 pull requests in the last year; most used languages are Python, JavaScript, HTML, CSS and Swift." />
+</p>
+
 <p align="center"><img src="./assets/divider-v2.svg" width="100%" alt="" /></p>
 
 <p align="center">
