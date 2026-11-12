@@ -7,7 +7,7 @@
 <p align="center"><img src="./assets/h-about.svg" width="100%" alt="About me" /></p>
 
 <p align="center">
-  <img src="./assets/about-terminal.svg" width="100%" alt="Kimi Hu, undergraduate at UC Irvine. Skills: Python, C++, JavaScript, Swift, FastAPI, PostgreSQL. Focus: backend services, automation tools, web apps and data-driven analysis. Recently built an after-hours futures account-opening automation system. Learning system design, cloud deployment and iOS development." />
+  <img src="./assets/about-terminal-typed.svg" width="100%" alt="Kimi Hu, undergraduate at UC Irvine. Skills: Python, C++, JavaScript, Swift, FastAPI, PostgreSQL. Focus: backend services, automation tools, web apps and data-driven analysis. Recently built an after-hours futures account-opening automation system. Learning system design, cloud deployment and iOS development." />
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
