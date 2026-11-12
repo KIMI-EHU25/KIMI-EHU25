@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 24" width="1000" height="24">
+<defs>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#FF4FD8"><animate attributeName="stop-color" values="#FF4FD8;#7DF9FF;#B388FF;#FF4FD8" dur="6s" repeatCount="indefinite"/></stop>
+    <stop offset=".5" stop-color="#B388FF"><animate attributeName="stop-color" values="#B388FF;#FF4FD8;#7DF9FF;#B388FF" dur="6s" repeatCount="indefinite"/></stop>
+    <stop offset="1" stop-color="#7DF9FF"><animate attributeName="stop-color" values="#7DF9FF;#B388FF;#FF4FD8;#7DF9FF" dur="6s" repeatCount="indefinite"/></stop>
+  </linearGradient>
+  <filter id="g1" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="g2" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7DF9FF" stop-opacity="0"/><stop offset=".5" stop-color="#7DF9FF" stop-opacity=".95"/><stop offset="1" stop-color="#7DF9FF" stop-opacity="0"/></linearGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070316"/><stop offset="1" stop-color="#150833"/></linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#7DF9FF" stroke-opacity=".06"/></pattern>
+  
+  <clipPath id="clip"><rect width="1000" height="24" rx="16"/></clipPath>
+</defs>
+<line x1="40" y1="12" x2="960" y2="12" stroke="#B388FF" stroke-opacity=".3"/>
+<rect x="40" y="10.5" width="160" height="3" fill="url(#beam)" filter="url(#g1)"><animate attributeName="x" values="40;800;40" dur="5s" repeatCount="indefinite"/></rect>
+<g transform="translate(500 12)" fill="none" stroke="#FF4FD8" filter="url(#g1)"><rect x="-6" y="-6" width="12" height="12" transform="rotate(45)"><animateTransform attributeName="transform" type="rotate" values="45;405" dur="8s" repeatCount="indefinite"/></rect></g>
+</svg>
