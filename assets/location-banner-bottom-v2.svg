@@ -43,5 +43,5 @@
   </g></g>
   <rect width="1000" height="3" fill="#fff" opacity=".05"><animate attributeName="y" values="-5;260" dur="5s" repeatCount="indefinite"/></rect>
 </g>
-<rect x="1.5" y="1.5" width="997" height="257" rx="17" fill="none" stroke="url(#neon)" stroke-width="3" stroke-dasharray="380 160" filter="url(#g1)"><animate attributeName="stroke-dashoffset" values="0;-1080" dur="6s" repeatCount="indefinite"/></rect>
+<rect x="1" y="1" width="997" height="257" rx="17" fill="none" stroke="#7DF9FF" stroke-opacity=".18"/>
 </svg>
