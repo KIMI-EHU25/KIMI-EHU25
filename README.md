@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/location-banner.svg" width="100%" alt="Hello, welcome to visit" />
+  <img src="./assets/location-banner-bottom.svg" width="100%" alt="Hello, welcome to visit" />
 </p>
 
 ---
