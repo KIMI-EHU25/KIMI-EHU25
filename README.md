@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KIMI-EHU25&label=Profile%20views&color=86A8E7&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Location-Irvine%2C%20CA-91EAE4?style=flat&logo=googlemaps&logoColor=white" alt="location" />
-  <img src="https://img.shields.io/github/followers/KIMI-EHU25?label=Followers&style=flat&color=7F7FD5" alt="followers" />
 </p>
 
 ---
@@ -43,23 +41,6 @@
 | 📚 [**Kaimitalk**](https://github.com/KIMI-EHU25/kaimitalk) | Web front end for the Kaimitalk reading platform | JavaScript · HTML · CSS |
 | 💣 [**Minesweeper for iPhone**](https://github.com/KIMI-EHU25/Minesweeper-IPHONE) | Classic Minesweeper rebuilt as a native iOS app | Swift |
 | 🐍 [**Minesweeper (Python)**](https://github.com/KIMI-EHU25/Minesweeper-py) | Minesweeper game logic and gameplay in Python | Python |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KIMI-EHU25&theme=tokyonight" alt="Contribution activity" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KIMI-EHU25&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KIMI-EHU25&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KIMI-EHU25&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
 
 ---
 
