@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Hi, I'm Kimi Hu" />
+  <img src="./assets/header.svg" width="100%" alt="Hello, welcome to visit" />
 </p>
 
 <p align="center">
