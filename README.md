@@ -35,9 +35,5 @@
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting! Feel free to look around my repositories. ⭐
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=100&section=footer" alt="footer" />
+  <img src="./assets/scifi-footer.svg" width="100%" alt="Thanks for visiting" />
 </p>
