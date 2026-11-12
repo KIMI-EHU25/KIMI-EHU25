@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="./assets/neon-banner.svg" width="100%" alt="Hello, welcome to visit" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Irvine%2C%20CA-91EAE4?style=flat&logo=googlemaps&logoColor=white" alt="location" />
+  <img src="./assets/location-banner.svg" width="100%" alt="Hello, welcome to visit" />
 </p>
 
 ---
