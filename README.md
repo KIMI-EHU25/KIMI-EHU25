@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=180&section=header&text=Hi%2C%20I'm%20Kimi%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="header" />
+  <img src="./assets/header.svg" width="100%" alt="Hi, I'm Kimi Hu" />
 </p>
 
 <p align="center">
