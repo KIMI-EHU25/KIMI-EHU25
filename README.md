@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Hello, welcome to visit" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/KIMI-EHU25">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=86A8E7&center=true&vCenter=true&width=600&lines=UCI+Undergraduate+Student+%F0%9F%8E%93;Backend+%26+Full-Stack+Developer;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+JavaScript;I+automate+the+boring+stuff+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
-  </a>
+  <img src="./assets/welcome-banner.svg" width="100%" alt="Hello, welcome to visit" />
 </p>
 
 <p align="center">
